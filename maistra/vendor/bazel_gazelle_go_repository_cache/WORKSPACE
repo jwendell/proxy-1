@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for go_repository_cache rule
+workspace(name = "bazel_gazelle_go_repository_cache")

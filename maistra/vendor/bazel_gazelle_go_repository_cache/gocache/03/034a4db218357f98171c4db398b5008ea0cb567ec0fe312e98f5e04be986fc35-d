@@ -1,0 +1,9 @@
+./diff.go
+./fix-update.go
+./fix.go
+./gazelle.go
+./langs.go
+./metaresolver.go
+./print.go
+./update-repos.go
+./version.go

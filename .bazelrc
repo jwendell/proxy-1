@@ -188,3 +188,4 @@ build:debug -c dbg
 build --cxxopt -Wnon-virtual-dtor
 build --cxxopt -Wformat
 build --cxxopt -Wformat-security
+try-import %workspace%/maistra/bazelrc

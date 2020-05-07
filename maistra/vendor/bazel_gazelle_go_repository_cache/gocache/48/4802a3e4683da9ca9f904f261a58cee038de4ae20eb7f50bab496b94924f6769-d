@@ -1,0 +1,10 @@
+./config.go
+./constants.go
+./fileinfo.go
+./fix.go
+./generate.go
+./kinds.go
+./known_imports.go
+./lang.go
+./package.go
+./resolve.go
