@@ -1,8 +1,0 @@
-.build
-.dockerignore
-.gitignore
-README.md
-**/.DS_Store
-**/.git
-**/docker-compose.yml
-**/Dockerfile

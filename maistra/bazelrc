@@ -1,7 +1,4 @@
 build --override_repository=bazel_gazelle=/work/maistra/vendor/bazel_gazelle
-build --override_repository=bazel_gazelle_go_repository_cache=/work/maistra/vendor/bazel_gazelle_go_repository_cache
-build --override_repository=bazel_gazelle_go_repository_config=/work/maistra/vendor/bazel_gazelle_go_repository_config
-build --override_repository=bazel_gazelle_go_repository_tools=/work/maistra/vendor/bazel_gazelle_go_repository_tools
 build --override_repository=bazel_skylib=/work/maistra/vendor/bazel_skylib
 build --override_repository=bazel_toolchains=/work/maistra/vendor/bazel_toolchains
 build --override_repository=bazel_version=/work/maistra/vendor/bazel_version
@@ -66,7 +63,6 @@ build --override_repository=io_bazel_rules_nogo=/work/maistra/vendor/io_bazel_ru
 build --override_repository=io_opencensus_cpp=/work/maistra/vendor/io_opencensus_cpp
 build --override_repository=io_opentracing_cpp=/work/maistra/vendor/io_opentracing_cpp
 build --override_repository=kafka_source=/work/maistra/vendor/kafka_source
-build --override_repository=local_jdk=/work/maistra/vendor/local_jdk
 build --override_repository=mixerapi_git=/work/maistra/vendor/mixerapi_git
 build --override_repository=net_zlib=/work/maistra/vendor/net_zlib
 build --override_repository=opencensus_proto=/work/maistra/vendor/opencensus_proto

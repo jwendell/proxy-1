@@ -1,2 +1,0 @@
-# DO NOT EDIT: automatically generated WORKSPACE file for git_repository rule
-workspace(name = "com_github_golang_protobuf")

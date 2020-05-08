@@ -1,5 +1,0 @@
-licenses(["notice"])  # Apache 2
-
-load("//some:thing.bzl", "foo")
-
-foo()
